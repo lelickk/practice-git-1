@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Novokosino is a capital of Moscow
+Novokosino is not a capital of Moscow
